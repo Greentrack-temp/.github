@@ -22,7 +22,7 @@ O aplicativo GreenTrack, desenvolvido em Flutter, oferece aos cidadãos uma plat
 A API do GreenTrack, construída em Java Spring Boot, é responsável por gerenciar e armazenar os dados provenientes do aplicativo. Ela interage com os sistemas municipais para coordenar a coleta e análise de informações relevantes.
 
 #### Como Contribuir:
-- Clone este repositório.
+- Clone este [repositório](https://github.com/Greentrack-temp/rest-api.git).
 - Configure um ambiente Java e Spring Boot.
 - Contribua com código ou reporte problemas através de issues.
 
