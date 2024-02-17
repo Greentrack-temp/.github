@@ -13,7 +13,7 @@ O GreenTrack busca otimizar a coleta de resíduos urbanos, proporcionando uma ab
 O aplicativo GreenTrack, desenvolvido em Flutter, oferece aos cidadãos uma plataforma fácil de usar para relatar informações sobre resíduos. Ele permite que os usuários comuniquem a localização, tipo e quantidade de resíduos, facilitando a coleta eficiente.
 
 #### Como Contribuir:
-- Clone este [repositório](https://github.com/Greentrack-temp/mobile-app.git).
+- Clone este [repositório para cidadãos](https://github.com/Greentrack-temp/citizen-mobile-app.git) ou [repositório para cidadãos](https://github.com/Greentrack-temp/collector-mobile-app.git).
 - Instale as dependências usando `flutter pub get`.
 - Contribua com código ou reporte problemas através de issues.
 
