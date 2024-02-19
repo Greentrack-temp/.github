@@ -1,6 +1,6 @@
 # GreenTrack - Sistema para Melhoria da Coleta de Resíduos Urbanos
 
-Bem-vindo ao repositório da GreenTrack, uma organização dedicada a criar soluções inovadoras para aprimorar a coleta de resíduos urbanos. Nosso sistema integra um aplicativo mobile desenvolvido com Flutter para os cidadãos, uma API robusta construída em Java Spring Boot para as prefeituras e uma interface web intuitiva feita em React para administrar e analisar os dados coletados.
+Bem-vindo ao repositório da GreenTrack, uma organização dedicada a criar soluções inovadoras para aprimorar a coleta de resíduos urbanos. Nosso sistema integra um aplicativo mobile desenvolvido com Flutter para os cidadãos, uma API robusta construída em Java Spring Boot para as prefeituras e uma interface web intuitiva feita em Angular para administrar e analisar os dados coletados.
 
 ## Sobre o GreenTrack
 
@@ -26,9 +26,9 @@ A API do GreenTrack, construída em Java Spring Boot, é responsável por gerenc
 - Configure um ambiente Java e Spring Boot.
 - Contribua com código ou reporte problemas através de issues.
 
-### 3. Interface Web (React)
+### 3. Interface Web (Angular)
 
-A interface web, desenvolvida em React, oferece uma visão abrangente das estatísticas e relatórios gerados a partir dos dados coletados. Destinada às prefeituras, essa interface facilita a administração eficaz e a tomada de decisões informadas.
+A interface web, desenvolvida em Angular, oferece uma visão abrangente das estatísticas e relatórios gerados a partir dos dados coletados. Destinada às prefeituras, essa interface facilita a administração eficaz e a tomada de decisões informadas.
 
 #### Como Contribuir:
 - Clone este repositório.
@@ -46,4 +46,3 @@ Agradecemos por considerar a contribuição para o GreenTrack. Se você deseja p
 5. Faça commit das alterações: `git commit -m "Adiciona nova funcionalidade"`.
 6. Faça push para o seu fork: `git push origin feature/nova-funcionalidade`.
 7. Abra um Pull Request aqui.
-
