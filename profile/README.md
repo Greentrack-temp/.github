@@ -46,6 +46,3 @@ Agradecemos por considerar a contribuição para o GreenTrack. Se você deseja p
 5. Faça commit das alterações: `git commit -m "Adiciona nova funcionalidade"`.
 6. Faça push para o seu fork: `git push origin feature/nova-funcionalidade`.
 7. Abra um Pull Request aqui.
-
-8. ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Greentrack-temp&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Greentrack-temp&layout=compact&langs_count=7&theme=midnight-purple)
