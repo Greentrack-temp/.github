@@ -31,7 +31,8 @@ A API do GreenTrack, construída em Java Spring Boot, é responsável por gerenc
 A interface web, desenvolvida em Angular, oferece uma visão abrangente das estatísticas e relatórios gerados a partir dos dados coletados. Destinada às prefeituras, essa interface facilita a administração eficaz e a tomada de decisões informadas.
 
 #### Como Contribuir:
-- Clone este repositório.
+
+- Clone este [repositório](https://github.com/Greentrack-temp/web-app.git).
 - Instale as dependências usando `npm install`.
 - Contribua com código ou reporte problemas através de issues.
 
